@@ -13,7 +13,7 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
 
 #### My Professional Experience
 
-- **Dirección General Marítima**
+- **Dirección General Marítima** :ocean: 👨‍💻 📊 🌎 
   - *GIS Developer*
   - *June 2023 - Present*
   - Bogotá, Capital District, Colombia
@@ -22,7 +22,7 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
     - Programming geographic tasks in Python, SQL, Jupiter Notebook, and ArcGIS Pro.
     - Creating web pages and applications for analyzing marine data.
 
-- **ANDEAN GEOLOGICAL SERVICES LTDA**
+- **ANDEAN GEOLOGICAL SERVICES LTDA** ⚒️ 🗺️ 
   - *Environmental Geologist and GIS*
   - *January 2023 - June 2023*
   - Bogotá, Capital District, Colombia
@@ -30,7 +30,7 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
     - Developing geographic databases (GDB) for projects like the Plan de Ordenación y Manejo de cuenca hidrográfica (POMCA) de la Laguna de Tota - Colombia.
     - Cartography and technical documentation for hydrographic, climatic, geomorphological, and geological studies.
 
-- **Dirección General Marítima**
+- **Dirección General Marítima** :ocean: 💻 📊 🇨🇴 🌎 
   - *Internship as a Geologist*
   - *August 2022 - December 2022*
   - Bogotá, Colombia
@@ -38,7 +38,7 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
     - Compiling and processing oceanographic research data.
     - Frontend and backend development for web applications.
 
-- **Universidad Nacional de Colombia**
+- **Universidad Nacional de Colombia**  📊 📄 ⛈️ 🪨 ⚒️
   - *Research Assistant*
   - *February 2020 - May 2022*
   - Bogotá, Distrito Capital, Colombia
@@ -47,9 +47,9 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
     - Developing geodatabases, hazard maps, and climatic classifications.
 
 #### My Work
-
-Here's an example of my web GIS work:
+These are some of my web GIS work:
 - [Aplicativo ayudas para la navegación](https://ide.dimar.mil.co/Aplicativo_Se%C3%B1alizacion_Maritima/)
+- [Sistema integrado de la marina mercánte (SIMAM)](https://ide.dimar.mil.co/simam/)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US) for more details about my projects and collaborations.
 
