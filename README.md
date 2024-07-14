@@ -49,7 +49,7 @@ I'm Moisés, a Geologist with a strong background in geological and hydrometeoro
 #### My Work
 These are some of my web GIS work:
 - [Aplicativo ayudas para la navegación](https://ide.dimar.mil.co/Aplicativo_Se%C3%B1alizacion_Maritima/)
-- [Sistema integrado de la marina mercánte (SIMAM)](https://ide.dimar.mil.co/simam/)
+- [Sistema integrado de la marina mercante (SIMAM)](https://ide.dimar.mil.co/simam/)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US) for more details about my projects and collaborations.
 
