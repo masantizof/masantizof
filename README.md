@@ -43,7 +43,7 @@ I'm a Geologist with a strong background in geological and hydrometeorological d
 #### My work 
 
 These are some of my web GIS works:
-- [Aplicativo ayudas para la navegación](<[Your LinkedIn Profile URL](https://ide.dimar.mil.co/Aplicativo_Se%C3%B1alizacion_Maritima/)>).
+- [Aplicativo ayudas para la navegación](<(https://ide.dimar.mil.co/Aplicativo_Se%C3%B1alizacion_Maritima/)>).
 - [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>).
 - [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>).
 
@@ -56,7 +56,7 @@ To ensure accessibility, consider the following:
 - Use meaningful alt text for images.
 - Mindful use of emoji for enhanced readability.
 
-Feel free to explore my repositories and connect with me on [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>) for more details about my projects and collaborations.
+Feel free to explore my repositories and connect with me on [LinkedIn](<(https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>) for more details about my projects and collaborations.
 
 Let's build accessible and inclusive documentation together! 🌍💻
 
