@@ -40,12 +40,12 @@ I'm a Geologist with a strong background in geological and hydrometeorological d
     - Geoenvironmental and hydrometeorological characterization of the Negro river basin SZH-2306, province of Gualivá - Colombia.
     - Development of geodatabases, hazard maps, and climatic classifications.
 
-#### Why Accessibility Matters
+#### My work 
 
-Accessibility in README files is crucial as it:
-- Invites trust and exploration of repositories.
-- Increases clarity and usability for all users.
-- Demonstrates commitment to inclusivity and good practices in markdown files.
+These are some of my web GIS works:
+- [Aplicativo ayudas para la navegación](<[Your LinkedIn Profile URL](https://ide.dimar.mil.co/Aplicativo_Se%C3%B1alizacion_Maritima/)>).
+- [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>).
+- [LinkedIn](<[Your LinkedIn Profile URL](https://www.linkedin.com/in/mois%C3%A9s-a-santizo-fuentes-3a893a19b/?locale=en_US)>).
 
 #### Tips for an Accessible README
 
