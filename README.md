@@ -4,12 +4,26 @@
 
 I'm Moisés, a Geologist with a strong background in geological and hydrometeorological data analysis, geoinformatics, environmental geology, marine GIS, GIS programming, and GIS development.
 
-#### Tips for an Accessible README
+**My Skills:**
+
+*Idioms:*
+- Spanish: C2
+- English: B2
+- German: A1
+
+*Languajes:* 
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+- R
 
 **My Interests:**
 - GIS Development
 - Data Analysis
 - AI for GIS Analysis
+- Object-oriented programming 
 
 #### My Professional Experience
 
